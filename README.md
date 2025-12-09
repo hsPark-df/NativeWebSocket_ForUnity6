@@ -12,10 +12,6 @@ This is the simplest and easiest WebSocket library for Unity you can find!
 
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dendel%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/endel)
 
-## Installation
-
-*Requires Unity 2019.1+ with .NET 4.x+ Runtime*
-
 ### Install via UPM (Unity Package Manager)
 1. Open Unity
 2. Open Package Manager Window
