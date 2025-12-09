@@ -20,7 +20,7 @@ This is the simplest and easiest WebSocket library for Unity you can find!
 1. Open Unity
 2. Open Package Manager Window
 3. Click Add Package From Git URL
-4. Enter URL: ```https://github.com/endel/NativeWebSocket.git#upm```
+4. Enter URL: ```https://github.com/hsPark-df/NativeWebSocket_ForUnity6.git#upm```
 
 ### Install manually
 1. [Download this project](https://github.com/endel/NativeWebSocket/archive/master.zip)
